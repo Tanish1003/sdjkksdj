@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(img/WhatsApp\ Image\ 2023-11-30\ at\ 8.15.31\ AM.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+.center{
+    
+    width: 50%;
+    position: absolute;
+}
+.center{
+    color: white;
+    top: 30%;
+    left: 30%;
+   
+    
+} 
